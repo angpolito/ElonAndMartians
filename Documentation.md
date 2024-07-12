@@ -1,7 +1,7 @@
 # Documentazione
-___
+
 ## Indice
-___
+
 1. [Componenti del gruppo]( #1-componenti-del-gruppo)
 2. [Descrizione caso di studio]( #2-descrizione-caso-di-studio)
 3. [Diagramma delle classi]( #3-diagramma-delle-classi)
@@ -10,7 +10,7 @@ ___
 6. [Soluzioni]( #6-soluzioni)
 
 # 1. Componenti del gruppo
-___
+
 
 - [Simone Pugliese](https://github.com/SimonePugliese0)
 - [Paolo Scicutella](https://github.com/paoloscicu02)
@@ -19,7 +19,7 @@ ___
 [Torna all'indice](#indice)
 
 # 2. Descrizione caso di studio
-___
+
 L'avventura mista "Elon and Martians" è ambientata in uno scenario fantascientifico che vede come protagonista Elon
 e il suo equipaggio intenti ad ottenere informazioni sul pianeta Marte al fine di colonizzarlo.<br>
 Poiché la missione prende una piega inaspettata, l'obiettivo del gioco è quello di evadere dalla prigione marziana e 
@@ -55,7 +55,7 @@ da parte del vincitore.<br>
 [Torna all'indice](#indice)
 
 # 3. Diagramma delle classi
-___
+
 
 Il seguente diagramma rappresenta la parte di codice relativa al contenuto del package 'map.adventure.elonandmartians.game' e all'interfaccia swing 'App', che risulta significativa nella gestione della logica di gioco e dell'interazione con l'utente.
 
@@ -66,7 +66,7 @@ _(Diagramma realizzato con StarUML)_
 [Torna all'indice](#indice)
 
 # 4. Specifica Algebrica
-___
+
 **SPECIFICA SINTATTICA**
 
         TIPI: inventory, AdvObject, boolean, position
@@ -126,7 +126,7 @@ ___
 [Torna all'indice](#indice)
 
 # 5. Applicazione degli argomenti del corso
-___
+
 
 - **File**:
   - sono stati utilizzati file seriali per la gestione del salvataggio e del caricamento dello stato della partita;
@@ -236,7 +236,7 @@ Il sistema è composto da 10 package:
 [Torna all'indice](#indice)
 
 # 6. Soluzioni
-___
+
 
 **ATTENZIONE QUESTA E' UNA SEZIONE SPOILER**
 
