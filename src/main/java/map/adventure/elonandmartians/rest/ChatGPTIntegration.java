@@ -18,7 +18,7 @@ import com.google.gson.JsonParser;
  */
 public class ChatGPTIntegration {
 
-    private static final String API_KEY = "sk-proj-9IJ8jqaQJQklLVbc1FaAT3BlbkFJhAjRuuNeuLITSaJPswQ2";
+    private static final String API_KEY = "sk-None-DQn9rEh3JjU4GX8N3GGJT3BlbkFJgisdrjNGQls0l4577k3y";
     private static final String API_URL = "https://api.openai.com/v1/chat/completions";
 
     /**
