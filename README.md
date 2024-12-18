@@ -1,6 +1,6 @@
 # ElonAndMartians
 
-**Elon and Martians** is a project in Java developed for the course *Metodi avanzati di programmazione* (*Advanced Programming Methods*) during the 2023/2024 academic year, (2nd year of the BSc program in *Computer Science*) at the *University of Bari Aldo Moro*.<br>
+**Elon And Martians** is a project in Java developed for the course *Metodi avanzati di programmazione* (*Advanced Programming Methods*) during the 2023/2024 academic year, (2nd year of the BSc program in *Computer Science*) at the *University of Bari Aldo Moro*.<br>
 Authors: Angelo Polito, Simone Pugliese, Paolo Scicutella.<br><br>
 Consult the documentation [here](Documentation.md).
 
